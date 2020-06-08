@@ -1,6 +1,6 @@
 <template>
-    <div id="TranslateOutput" class="font">
-        <div>{{ outputText }}</div>
+    <div id="TranslateOutput" class="mt-3">
+        <h4>{{ outputText }}</h4>
     </div>
 </template>
 
@@ -11,8 +11,4 @@ export default {
 }
 </script>
 
-<style>
-.font {
-    font-size: 20px;
-}
-</style>
+<style></style>

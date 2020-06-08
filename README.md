@@ -11,7 +11,7 @@
 
 -   CSS 样式
 
-    > 引入 Bootswatch 设置页面样式
+    > 引用 Bootstrap 设置页面样式
 
 -   运行项目
     > `npm run serve`

@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import VueResource from 'vue-resource'
 import App from './App.vue'
-import './assets/bootstrap.min.css'
+import 'bootstrap'
+import $ from 'jquery'
 
 Vue.use(VueResource)
 Vue.config.productionTip = false
