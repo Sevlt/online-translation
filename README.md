@@ -1,6 +1,6 @@
 # 在线翻译
 
-#### 基于 Vue 框架实现
+#### Vue / Bootstrap / Yandex Translate API
 
 -   效果预览
     ![效果预览](https://github.com/SEVLT/online-translation/blob/master/src/assets/preview.png?raw=true)
